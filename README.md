@@ -2,7 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=surefire-hu&label=Profile%20views&color=FF6C37&style=for-the-badge&logo=star" alt="surefire" style="padding-right:20px;" />
   </p>
   
-# Hi there 👋 IM' SEM_909 
+# Hi there 👋 IM' SAMIR SONO UNO STUDENTE FULL-STACK DEVELOPER ATTUALMENTE, CON TANTA VOGLIA D'IMPARARE NUOVE SKILLS!
 
 ## 🚀 My Skills
 
